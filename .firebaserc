@@ -1,0 +1,18 @@
+{
+  "targets": {
+    "login-app-37779": {
+      "hosting": {
+        "fireChat": [
+          "login-app-37779"
+        ]
+      }
+    },
+    "firechat-304d4": {
+      "hosting": {
+        "fireChat": [
+          "firechat-304d4"
+        ]
+      }
+    }
+  }
+}
